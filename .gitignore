@@ -1,0 +1,8 @@
+/.vs
+/.idea
+/.git
+/node_modules
+/client_packages/game_resources
+/package-lock.json
+/src_client_packages/node_modules
+/src_client_packages/package-lock.json
